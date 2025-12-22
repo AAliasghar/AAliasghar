@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Data Engineer | 5 Years Experience in Logistics Data | Python • SQL • AWS • Java</h3>
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+- 🌱 Specializing in migrating legacy ETL systems to modern serverless cloud architectures. Passionate about building scalable data pipelines for financial logic
 <p align="left">
 </p>
 
