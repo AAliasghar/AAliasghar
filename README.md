@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">Data Engineer | 5 Years Experience in Logistics Data | Python • SQL • AWS • Java</h3>
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 <p align="left">
