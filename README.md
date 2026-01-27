@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
-  <img src="https://www.svgrepo.com/svg/234624/snowflake-cold" alt="Snowflake" width="50" height="40"/>
+  <img  src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" alt="Snowflake" width="50" height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
@@ -33,5 +33,9 @@
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="40"/>
+</a>
+
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg"alt="Apache Spark"width="50"height="40"/>
 </a>
 
