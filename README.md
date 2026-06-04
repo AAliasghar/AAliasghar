@@ -43,7 +43,7 @@ I'm a passionate **Data Engineer** specializing in designing and building scalab
   <tr>
     <td align="center"><a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="50" height="50"/></a><br>Apache Spark</td>
     <td align="center"><a href="https://airflow.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="50" height="50"/></a><br>Airflow</td>
-    <td align="center"><a href="https://www.getdbt.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" alt="dbt" width="50" height="50"/></a><br>dbt</td>
+    <td align="center"><a href="https://www.getdbt.com/" target="_blank"><img src="https://raw.githubusercontent.com/dbt-labs/dbt/develop/etc/dbt-logo-full.svg" alt="dbt" width="50" height="50"/></a><br>dbt</td>
     <td align="center"><a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="50" height="50"/></a><br>AWS</td>
   </tr>
 </table>
@@ -74,9 +74,7 @@ I'm a passionate **Data Engineer** specializing in designing and building scalab
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAliasghar&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAliasghar&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAliasghar&theme=radical)](https://github.com/AAliasghar)
 
 </div>
 
