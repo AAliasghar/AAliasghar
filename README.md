@@ -74,7 +74,7 @@ I'm a passionate **Data Engineer** specializing in designing and building scalab
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAliasghar&theme=radical)](https://github.com/AAliasghar)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AAliasghar&theme=radical)](https://github.com/AAliasghar)
 
 </div>
 
@@ -82,20 +82,23 @@ I'm a passionate **Data Engineer** specializing in designing and building scalab
 
 ## 🎓 Experience Highlights
 
-- **ETL Modernization**: Led migration of legacy batch systems to Apache Airflow-based serverless pipelines
-- **Data Pipeline Architecture**: Designed and implemented high-throughput data ingestion systems processing 100M+ records daily
-- **Cloud Engineering**: Expertise in AWS (Lambda, S3, RDS, Glue, EC2) for cost-optimized solutions
-- **Financial Data**: Built complex data models for financial transactions, reconciliation, and reporting
+- **ETL Modernization**: Moved legacy batch jobs to orchestrated pipelines with Apache Airflow
+- **Data Pipelines**: Built and run daily, high-volume data ingestion and transformation pipelines
+- **Cloud Engineering**: Hands-on with AWS (Lambda, S3, RDS, Glue, EC2)
+- **Financial Data**: Built data models for financial transactions, reconciliation and reporting
 
 ---
 
 ## 📚 Featured Projects
 
-Check out my repositories for examples of:
-- Data pipeline implementations
-- ETL best practices
-- Cloud architecture examples
-- Data engineering tools and utilities
+| Project | What it is | Stack |
+|---|---|---|
+| [lambda-snowflake-ingestion](https://github.com/AAliasghar/lambda-snowflake-ingestion) | S3-triggered AWS Lambda that validates CSV files and loads them into Snowflake | Python, AWS Lambda, S3, Snowflake |
+| [logistics-sql-logic](https://github.com/AAliasghar/logistics-sql-logic) | Synthetic logistics data generator + SQL Server warehouse (bronze/silver/gold) measuring carrier delivery performance, built end-to-end in CI | Python, T-SQL, SQL Server |
+| [nio-gap-reversion-engine](https://github.com/AAliasghar/nio-gap-reversion-engine) | Pipeline that measures opening gaps in NIO stock and whether they fill (research project) | Airflow, PySpark, dbt, PostgreSQL, Docker |
+| [ir-housing-gold-fx-model](https://github.com/AAliasghar/ir-housing-gold-fx-model) | Pipelines for Iranian market data; Tehran housing priced in grams of gold | Airflow, PostgreSQL, Python |
+
+Each repo has tests and a CI workflow on GitHub Actions.
 
 ---
 
@@ -105,7 +108,6 @@ Check out my repositories for examples of:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasgharinia)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AAliasghar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
